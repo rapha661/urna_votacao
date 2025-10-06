@@ -1,0 +1,335 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="Z7xK4Tt0SlYpVuthA7NU">
+    <mxGraphModel dx="672" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="100" y="312.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTZ1UfnJBTKxLo6anNUD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="332.5" as="sourcePoint" />
+            <mxPoint x="190" y="317.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="317.5" />
+              <mxPoint x="160" y="317.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.77" y="312.5" as="sourcePoint" />
+            <mxPoint x="104.77" y="252.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-6" value="Estado inicial" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="70" y="225" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="297.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-12" value="UEv inativa" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="100" y="297.5" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-13" value="Recebendo dados&lt;br&gt;receberCargaDeDados(dados)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="205" y="297.5" width="60" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="317.75" as="sourcePoint" />
+            <mxPoint x="360" y="317.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="317.25" />
+              <mxPoint x="330" y="317.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-15" value="Dados carregados" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="280" y="298.75" width="70" height="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="297.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-17" value="Inicio da votação&lt;br&gt;iniciarVotacao()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="293.13" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="317.69" as="sourcePoint" />
+            <mxPoint x="530" y="317.19" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="317.19" />
+              <mxPoint x="500" y="317.19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="294.37" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-20" value="Validação do eleitor&lt;br&gt;validarEleitor(cpf)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="290" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-21" value="Votação iniciada" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="60" height="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="317.69" as="sourcePoint" />
+            <mxPoint x="700" y="317.19" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="317.19" />
+              <mxPoint x="670" y="317.19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="294.37" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-24" value="Recebendo dígitos inseridos&lt;br&gt;receberDigitos(digitos)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="290" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-25" value="Dados do eleitor válidos" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="60" height="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744.83" y="334.37" as="sourcePoint" />
+            <mxPoint x="744.83" y="379.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="744.83" y="359.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-27" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="380" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-29" value="Ponto de escolha" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="600" y="375" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTZ1UfnJBTKxLo6anNUD-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="445" as="sourcePoint" />
+            <mxPoint x="740" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="444.37" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-34" value="Votando em um candidato&lt;br&gt;votarCandidato()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="440" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744.86" y="390" as="sourcePoint" />
+            <mxPoint x="744.86" y="435.13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="744.86" y="415.13" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-38" value="[se a opção escolhida foi votar um candidato/ Votar no candidato" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="410" width="116" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744.79" y="390" as="sourcePoint" />
+            <mxPoint x="744.79" y="435.13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="744.79" y="415.13" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744.79" y="390" as="sourcePoint" />
+            <mxPoint x="650" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="454.37" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-42" value="Votando em branco votarEmBranco()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="450" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-43" value="[se a opção escolhida foi votar em branco/ Votar em branco" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="116" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nTZ1UfnJBTKxLo6anNUD-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="646" y="496.25" as="sourcePoint" />
+            <mxPoint x="680" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="646" y="521.38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nTZ1UfnJBTKxLo6anNUD-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="484.37" as="sourcePoint" />
+            <mxPoint x="700" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="509.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-46" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-47" value="Ponto de escolha" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="510" y="555" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-48" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="565" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="nTZ1UfnJBTKxLo6anNUD-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="569.74" as="sourcePoint" />
+            <mxPoint x="650" y="569.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="697" y="575" as="sourcePoint" />
+            <mxPoint x="650" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="590" />
+              <mxPoint x="650" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-51" value="Voto efetuado" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="520" width="116" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-52" value="Voto efetuado" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="520" width="116" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="634.37" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-54" value="Corrigir voto efetuado &lt;br&gt;corrigirVoto()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="620" y="630" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-55" value="[Se clicou em corrigir voto] / Corrigir voto efetuado" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="116" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="635.62" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-57" value="Corrigir voto efetuado &lt;br&gt;corrigirVoto()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="631.25" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nTZ1UfnJBTKxLo6anNUD-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="575" as="sourcePoint" />
+            <mxPoint x="730.5" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="590" />
+              <mxPoint x="750" y="610" />
+              <mxPoint x="750" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-59" value="[Se clicou em confirmar voto] / Confirmar votos feitos" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="610" width="116" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="777.5" y="677.5" as="sourcePoint" />
+            <mxPoint x="777.5" y="722.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="777.5" y="702.63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="730" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-62" value="Encerrando votação&lt;br&gt;encerrarVotacao()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="726.88" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-63" value="Todos os votos feitos" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="776.75" y="700" width="82.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="750.16" as="sourcePoint" />
+            <mxPoint x="900" y="749.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="749.66" />
+              <mxPoint x="870" y="749.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="730" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-67" value="Transmitindo boletim de votação &lt;br&gt;transmitirBoletim()" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="922.5" y="726.88" width="65" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-68" value="Votação finalizada" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="730" width="82.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="750.26" as="sourcePoint" />
+            <mxPoint x="1080" y="749.76" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="749.76" />
+              <mxPoint x="1050" y="749.76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-71" value="Boletim gerado" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="730" width="82.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="730" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-73" value="Enviado boletim e confirmação de finalização&lt;br&gt;enviarConfirmacao(status)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="726.88" width="75" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="750.5" as="sourcePoint" />
+            <mxPoint x="1250" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="750" />
+              <mxPoint x="1220" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-75" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="740" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-76" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="1255" y="745" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-77" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1343" y="730" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-78" value="Estado final" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1343" y="743.75" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="nTZ1UfnJBTKxLo6anNUD-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1273" y="748.75" as="sourcePoint" />
+            <mxPoint x="1273" y="691.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTZ1UfnJBTKxLo6anNUD-80" value="Resultados divulgados e confirmados" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1172.5" y="726.88" width="82.5" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
